@@ -10,7 +10,11 @@ The application will facilitate collaboration among users and provide cross-plat
 As task management is a universal need, the application aims to enhance user productivity and organization across various domains.
 
 **Team Members**:
+
 AALIYA N - 311120104001
+
 AUSKIN IMMANUEL J - 311120104012
+
 PAVITHRA S V - 311120104044
+
 TRIESHA KENNETH - 311120104060
